@@ -1,1 +1,20 @@
-# drive-ahead
+<html>
+    <title>drive ahead</title>
+    <body>
+        <header><img src="https://media.cdnandroid.com/item_images/765341/imagen-drive-ahead-0big.jpg" width="50" height="50"/>
+        <a href="#drive" style="color:black; font-size:20px;">какая игра сейчас</a>
+        </header>
+        <main>
+            <h2 id="drive">крутая игра,но скатилась</h2>
+            <p>я играл в неё 2 года назад и скажу честно игра калл.Раньше игра была нормальной,но сейчас донат решает причом жестко: здоровье,урон.И боты которые на своих повозках разносят тебя.это бравл старс наиву,ыесь азарт,интересь от игры пропал</p>
+        <img src="https://i.ytimg.com/vi/uTS3z2lz0LM/maxresdefault.jpg" width="300" height="100"/>
+        <table>
+        <tr>
+                <td style="border: 1px solid blue">цена машин</td>
+                <td style="border: 1px solid blue">ценв доната</td>
+            </tr>
+        </table>
+        </main>
+        <footer>podval</footer>
+    </body>
+</html>  
